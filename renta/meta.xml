@@ -1,0 +1,10 @@
+<meta>
+    <info author="TeoST09" name="Stealth" description="" />
+
+    <script src="client.lua" type="client"/>
+    <script src="server.lua" type="server"/>
+    <export function="addNotification" type="client" />
+    <include resource="dxLibraryEditor" />
+    <include resource="dxLibrary" /> 
+    <include resource="notificaciones" />  
+</meta>

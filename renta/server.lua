@@ -35,7 +35,7 @@ function onServerVehicle()
             end, 600000, 1)
         end
     else
-        triggerClientEvent(player, "addNotification", player, "No Tienes Suficiente Dinero", "warn", true)
+        triggerClientEvent(player, "addNotificationbike", player, "No Tienes Suficiente Dinero", "warn", true)
     end
 
 end

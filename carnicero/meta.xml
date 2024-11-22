@@ -1,0 +1,8 @@
+<meta>
+<info author="Nicolas ecm and TeoST" name="Sistema de experiencia y niveles" version="1.5" type="script" />
+	<script src="client.lua" type="client"/>
+	<script src="server.lua" type="server"/>
+	<export function="addNotification" type="client" />
+    <include resource="dxLibrary" /> 
+    <include resource="Notificaciones" />  
+</meta>
